@@ -8,3 +8,8 @@ I'll be using Python 3.10.
 ### Day 2
 First time using the new `match` statement in 3.10 🎉.
 
+### Day 4
+I liked how clean this solution looked.
+
+### Day 2
+`namedtuple`s really made the code much easier to work with.
